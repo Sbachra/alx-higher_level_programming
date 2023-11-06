@@ -1,1 +1,1 @@
-0x07 Python
+0x07 python
